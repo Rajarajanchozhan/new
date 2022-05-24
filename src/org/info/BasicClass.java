@@ -5,7 +5,10 @@ public static void main(String[] args) {
 	System.out.println("monday");
 	System.out.println("tusaday");
 	
+
 	
+	System.out.println("money");
+	System.out.println(" things");
 	System.out.println("fhfhfh");
 	System.out.println("cncnvn");
 	
